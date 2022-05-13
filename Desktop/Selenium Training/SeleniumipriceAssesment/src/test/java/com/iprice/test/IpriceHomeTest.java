@@ -23,7 +23,7 @@ public class IpriceHomeTest extends DriverManager {
 	}
 
 	@Test
-	public void LoginApplication() throws InterruptedException {
+	public void ipriceHomeTestfind() throws InterruptedException {
 		ip = new IpriceHome(driver);
 		ip.ipriceHome();
 	}
