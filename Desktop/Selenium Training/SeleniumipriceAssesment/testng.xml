@@ -8,7 +8,10 @@
 
 			<class name="com.iprice.test.IpriceHomeTest" />
 
-
+		</classes>
+	<test name="ipriceCouponTesting">
+		<classes>
+			<class name="com.iprice.test.IpriceCouponTest"/>
 		</classes>
 	</test>
 
