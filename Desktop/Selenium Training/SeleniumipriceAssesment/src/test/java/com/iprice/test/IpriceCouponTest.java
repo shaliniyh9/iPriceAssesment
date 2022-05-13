@@ -22,7 +22,7 @@ public class IpriceCouponTest extends DriverManager {
 	}
 
 	@Test
-	public void LoginApplication() throws InterruptedException {
+	public void ipriceCoupon() throws InterruptedException {
 		ip = new IpriceCoupon(driver);
 		ip.coupons();
 	}
